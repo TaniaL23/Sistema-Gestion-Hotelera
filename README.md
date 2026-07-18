@@ -1,20 +1,25 @@
-RENDER: https://homely-xirq.onrender.com/
+# HOMELY - Sistema de Gestión Hotelera
 
-Cuenta de administrador:
-Correo: admin@staygo.com
-Contraseña: password123!
-
-Sistema de Gestión Hotelera
 Sistema web desarrollado para la gestión de reservas y administración de servicios hoteleros.
-## Tecnologías
+
+##  Demo
+https://homely-xirq.onrender.com/
+
+##  Cuenta de prueba
+**Administrador**
+- Correo: admin@staygo.com
+- Contraseña: password123!
+
+##  Tecnologías
 - C#
 - ASP.NET Core MVC
 - Entity Framework Core
 - SQL Server
 - Bootstrap
-## Funcionalidades
+
+##  Funcionalidades
 - Registro de clientes
 - Gestión de habitaciones
-- Reservas
+- Registro y administración de reservas
 - Administración de servicios
 - Consultas de información
